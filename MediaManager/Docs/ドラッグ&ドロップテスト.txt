@@ -1,0 +1,10 @@
+ドラッグ&ドロップテスト 2022/05/07
+
+FLStudio20.9	チャネルラック	Wav○、Mid（単一フレーズ×）（16トラック▲）
+FLStudio20.9	プレイリスト	Wav○、Mid×（何も起こらない）
+FLStudio20.9	ピアノロール	　　　　Mid○
+
+
+AbletonLive 11.0.12	Wav○、Mid○
+
+

@@ -1,0 +1,16 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.19041.1566"/>
+        <meta name="ItemCount" content="4"/>
+        <title>TestPlaylist</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\..\..\..\WORK\開発\VSCommunity2022\MediaManager\bin\x64\Debug\Media\9thWave_02_EMPH.mp3"/>
+            <media src="..\..\..\..\WORK\開発\VSCommunity2022\MediaManager\bin\x64\Debug\Media\BadPlug1.wav"/>
+            <media src="..\..\..\..\WORK\開発\VSCommunity2022\MediaManager\bin\x64\Debug\Media\DEM_H4_G.MID"/>
+            <media src="..\..\..\..\WORK\開発\VSCommunity2022\MediaManager\bin\x64\Debug\Media\AP01H4_G.MID"/>
+        </seq>
+    </body>
+</smil>
